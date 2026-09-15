@@ -8,5 +8,5 @@ for row in range(max_height, 0, -1):
     print(f"{col_nam}  {col_nu}")
 print("-----  -----")
 print(f" ({so_nam:2d})    ({so_nu:2d})")
-print(" Nam    Nữ ")
+print(" Nam     Nữ ")
 
